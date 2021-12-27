@@ -1,2 +1,2 @@
-*Charlie Bone 
-*Games 
+* Charlie Bone 
+* Games 
